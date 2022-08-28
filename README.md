@@ -2,7 +2,7 @@
 *<br>
 
 ## My Experience
-💬 Currently finishing up my CS degree @ WIT this Fall (December 2022)
+💬 Currently finishing up my CS degree @ WIT this Fall (December 2022)<br>
 💬 Experience so far
 - 
 -
