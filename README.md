@@ -1,9 +1,9 @@
 # Aimane (Amen) Mahtar
-*<br>
+Passionate SWE with experience in Mobile Applications/Web Dev/Dev Ops<br>
 
 ## My Experience
-💬 Currently finishing up my CS degree @ WIT this Fall (December 2022)<br>
-💬 Experience so far
+🎓 Graduating in CS @ WIT this Fall (December 2022)<br><br>
+💻 Experience so far
 - 
 -
 - <br>
