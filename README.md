@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aimane Mahtar</h1>
 <h3 align="center">Aspiring Dev Ops and Full Stack Software engineer</h3>
 
-- 🌱 I’m currently learning **React and CI/CD configurations**
+- 🌱 I’m currently learning **React and CI/CD configurations** <br>
 
 ## My Experience
 🎓 Graduating in CS @ WIT this Fall (December 2022)<br><br>
