@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aimane Mahtar</h1>
-<h3 align="center">Aspiring Dev Ops and Full Stack Software engineer</h3>
+<h3 align="center">Aspiring Dev Ops and Full Stack Software Engineer</h3>
 
 - 🌱 I’m currently learning **React and CI/CD configurations** <br>
 
