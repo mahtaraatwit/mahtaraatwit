@@ -10,8 +10,6 @@
 - IT Intern @ BXP
 <br>
 
-
-
 ## Contact Info
 📫 You can reach me:
 - on [LinkedIn](http://www.linkedin.com/in/aimanemahtar)
