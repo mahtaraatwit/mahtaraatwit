@@ -4,8 +4,8 @@ Passionate SWE with experience in Mobile Applications/Web Dev/Dev Ops<br>
 ## My Experience
 🎓 Graduating in CS @ WIT this Fall (December 2022)<br><br>
 💻 Experience so far
-- 
--
+- Software Engineer Intern @ enLabel Global Services
+- IT Intern @ BXP
 - <br>
 
 
