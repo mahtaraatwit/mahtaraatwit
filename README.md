@@ -4,8 +4,10 @@
 - 🌱 I’m currently learning **React and CI/CD configurations** <br>
 
 ## My Experience ⚡
-🎓 Graduating in CS @ WIT this Fall (December 2022)<br><br>
+🎓 Graduated in CS @ WIT (December 2022)<br><br>
 💻 Experience so far
+- Software Engineer I @ Raytheon
+- Database Admin @ BXP
 - Software Engineer Intern @ enLabel Global Services
 - IT Intern @ BXP
 <br>
